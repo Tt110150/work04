@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.AssemblyInfo.cs
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\mmi\bin\Debug\net6.0\mmi.exe
+C:\Users\MDT\Desktop\mmi\bin\Debug\net6.0\mmi.deps.json
+C:\Users\MDT\Desktop\mmi\bin\Debug\net6.0\mmi.runtimeconfig.json
+C:\Users\MDT\Desktop\mmi\bin\Debug\net6.0\mmi.dll
+C:\Users\MDT\Desktop\mmi\bin\Debug\net6.0\mmi.pdb
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.dll
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\refint\mmi.dll
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.pdb
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\mmi.genruntimeconfig.cache
+C:\Users\MDT\Desktop\mmi\obj\Debug\net6.0\ref\mmi.dll
